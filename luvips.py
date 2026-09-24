@@ -1,6 +1,6 @@
 # /*
 # * Name:
-# /* DetectorInterface.py
+# /* luvips.py
 # *
 # * Description:
 # /* Graphical User Interface developed for assessing the performance of photon-counting detectors,
@@ -8,7 +8,7 @@
 #   (for further information, check the "readme" document).
 # *
 # /*
-# * Lead Author:
+# * Lead Developer:
 # /* David Moya
 # 
 # * Contributors:
